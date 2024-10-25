@@ -1,1 +1,2 @@
 Laravel.sql
+Laravel.sql
